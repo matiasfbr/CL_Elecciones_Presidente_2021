@@ -10,3 +10,5 @@ La información está a agrega por comuna y aun no logro hacer que se distinga e
 ### Aumento de participación en RM
 Si bien en RM hubo un claro aumento en la participación, no es evidente ver cual fue la comuna que más cambio. De esto se puede observar que Calera de Tango fue la comunda que más aumento su participación respecto a la primera vuelta mientras que Las Condes, Vitacura y Lo Barnechea practicamente no cambiaron.
 ![alt text](https://github.com/matiasfbr/CL_Elecciones_Presidente_2021/blob/main/cambio_participacion_RM.png)
+
+[Análisis en desarrollo]
